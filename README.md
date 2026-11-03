@@ -4,6 +4,8 @@ I recommend that any plant engineer insist on recieving digital drawings and CAD
 
 Now, we claw our way into the future. 
 
+The intended use case of these CAD assets is inclusion in https://github.com/City-of-Memphis-Wastewater/plantmap-sv.
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/City-of-Memphis-Wastewater/maxson-cad/main/assets/screenshot-solidcraft-earlydays.png" width="900">
 </p>
